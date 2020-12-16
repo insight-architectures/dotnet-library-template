@@ -1,5 +1,0 @@
-<Project>
-    <PropertyGroup>
-        <PackageId>$(RootNamespace).$(MSBuildProjectName)</PackageId>
-    </PropertyGroup>
-</Project>
