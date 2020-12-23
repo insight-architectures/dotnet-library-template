@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <RootNamespace>InsightArchitectures.Testing</RootNamespace>
+    <RootNamespace>InsightArchitectures.[NAMESPACE]</RootNamespace>
     <AssemblyName>$(RootNamespace).$(MSBuildProjectName)</AssemblyName>
     <LangVersion>9.0</LangVersion>
   </PropertyGroup>
@@ -14,7 +14,7 @@
     <PackageId>$(AssemblyName)</PackageId>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/insight-architectures/dotnet-testing-utils</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/insight-architectures/[REPOSITORY]</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
